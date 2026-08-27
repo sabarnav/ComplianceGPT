@@ -1,0 +1,12 @@
+User: Explain access control.
+
+ComplianceGPT:
+Access control refers to the practice of regulating who or what can access
+access a resource or system, and under what conditions. In the context prov
+provided, access control policy follows these principles: users are granted
+granted least privilege access based on their job role, administrative acce
+access requires approval, and multi-factor authentication is mandatory for 
+all users. This approach aims to ensure that only authorized individuals ha
+have access to sensitive resources and systems.
+------------------------------------------------------------
+

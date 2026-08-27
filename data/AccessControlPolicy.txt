@@ -1,0 +1,6 @@
+Access Control Policy
+
+- Users are granted least privilege access.
+- Access is based on job role.
+- Administrative access requires approval.
+- Multi-factor authentication is mandatory.

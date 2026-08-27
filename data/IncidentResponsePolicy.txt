@@ -1,0 +1,6 @@
+Incident Response Policy
+
+- Security incidents must be reported immediately.
+- Incident response team investigates incidents.
+- Evidence must be preserved.
+- Recovery activities must be documented.

@@ -1,0 +1,68 @@
+SAMPLE KNOWLEDGE BASE - FOR CHATBOT RETRIEVAL TESTING
+
+=== SECTION 1: COMPANY OVERVIEW ===
+
+Our company, TechNova Solutions, was founded in 2015 with a mission to make software development accessible to businesses of all sizes. We specialize in cloud infrastructure, data analytics, and custom application development. Our headquarters is located in Bangalore, India, with satellite offices in Singapore and Berlin.
+
+TechNova currently employs around 450 people across engineering, sales, customer support, and operations. We serve over 1,200 clients globally, ranging from small startups to Fortune 500 companies.
+
+=== SECTION 2: PRODUCT INFORMATION ===
+
+Our flagship product, NovaCloud, is a platform-as-a-service offering that allows developers to deploy applications without managing underlying infrastructure. Key features include:
+
+- Auto-scaling compute resources
+- Built-in CI/CD pipelines
+- Support for Python, JavaScript, Java, and Go
+- 99.95% uptime guarantee
+- 24/7 customer support for Enterprise tier customers
+
+Pricing tiers:
+1. Starter Plan: $29/month - Up to 3 projects, 10GB storage
+2. Professional Plan: $99/month - Up to 15 projects, 100GB storage
+3. Enterprise Plan: Custom pricing - Unlimited projects, dedicated support
+
+=== SECTION 3: FREQUENTLY ASKED QUESTIONS ===
+
+Q: How do I reset my password?
+A: Go to Settings > Account > Security and click "Reset Password." You will receive a confirmation email within 5 minutes.
+
+Q: What is your refund policy?
+A: We offer a 30-day money-back guarantee on all paid plans. Refund requests can be submitted through the billing portal or by contacting support@technova.example.com.
+
+Q: Do you offer student discounts?
+A: Yes, students with a valid .edu email address receive 50% off the Professional Plan.
+
+Q: How do I cancel my subscription?
+A: Navigate to Billing > Manage Subscription > Cancel Plan. Cancellations take effect at the end of the current billing cycle.
+
+=== SECTION 4: GENERAL KNOWLEDGE FACTS ===
+
+The Great Wall of China stretches over 13,000 miles and was built over several centuries by different Chinese dynasties, primarily to protect against invasions from northern tribes.
+
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It generates oxygen as a byproduct.
+
+The human brain contains approximately 86 billion neurons, each connected to thousands of other neurons, forming a highly complex network responsible for thought, memory, and bodily functions.
+
+Mount Everest, located in the Himalayas on the border of Nepal and China (Tibet), is the tallest mountain above sea level, standing at 8,849 meters (29,032 feet).
+
+The speed of light in a vacuum is approximately 299,792 kilometers per second (about 186,282 miles per second), and it is considered a fundamental constant of the universe.
+
+=== SECTION 5: COMPANY POLICIES ===
+
+Remote Work Policy: Employees may work remotely up to 3 days per week, subject to manager approval. Core collaboration hours are 10 AM to 4 PM local time.
+
+Leave Policy: Full-time employees are entitled to 24 days of paid annual leave, 12 sick days, and 10 public holidays per year.
+
+Code of Conduct: All employees are expected to maintain professionalism, respect diversity, and report any violations of company policy to HR immediately.
+
+Data Privacy: TechNova follows GDPR and applicable data protection regulations. Customer data is encrypted at rest and in transit, and access is limited to authorized personnel only.
+
+=== SECTION 6: CONTACT INFORMATION ===
+
+General Inquiries: info@technova.example.com
+Technical Support: support@technova.example.com
+Sales Team: sales@technova.example.com
+Phone: +91-80-1234-5678
+Business Hours: Monday to Friday, 9 AM to 6 PM IST
+
+=== END OF DOCUMENT ===
